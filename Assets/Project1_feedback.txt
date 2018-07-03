@@ -1,0 +1,24 @@
+Base feature score: 89/100
+Innovation bonus: 7
+Bug penalty: 0
+Overall grade: 96/100
+
+Features successfully implemented:
+- First person control
+- Projectiles fire when left mouse is clicked
+- Targets destroyed when hit
+- Level walls
+- Ramp walking and falling
+- Level completion
+- Final pickup item appears and works correctly
+
+Innovations:
+- Center sight
+- Moving enemies and obstacles
+- Cyclical level progression
+
+Issues: None
+
+Very nice work! I really enjoyed playing through all the levels. The final
+boss was especially fun - reminded me a bit of the first stage of the final
+boss in Tower of Guns.
